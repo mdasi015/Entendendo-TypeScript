@@ -1,0 +1,22 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "live-server": "^1.2.1",
+    "systemjs": "^0.21.6"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.6",
+    "@types/node": "^16.7.13"
+  }
+}
