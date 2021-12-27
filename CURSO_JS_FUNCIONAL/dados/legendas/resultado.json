@@ -1,0 +1,16 @@
+{
+    "i": 3456,
+    "you": 2459,
+    "what": 1690,
+
+    "houser": 300,
+    "that": 3,
+    "leo": 1,
+    "abc": 1
+}
+
+[
+    {"palavra": "i", "qtde": 3456},
+    {"palavra": "you", "qtde": 2000},
+    {"palavra": "what", "qtde": 550},
+]
